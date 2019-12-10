@@ -1,0 +1,43 @@
+2019-09-22 16:35:34 INFO  PluginTasksProjectComponent.projectOpened(77) - ---------- Project opened ----------
+2019-09-22 16:35:34 INFO  PluginTasksProjectComponent.projectOpened(78) - ---------- Version 3.34 ----------
+
+2019-09-22 16:35:34 INFO  PluginTasksProjectComponent.setAutoscrolls(366) - Autoscrolls successfully set
+2019-09-22 16:35:35 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(570) - The session is not set in the property file.
+2019-09-22 16:35:35 INFO  ApacheHttpClient.login(236) - Waiting for server response.
+2019-09-22 16:35:35 INFO  ApacheHttpClient.login(240) - responseCode = 200
+2019-09-22 16:35:35 INFO  ApacheHttpClient.login(263) - JSESSIONID OK
+2019-09-22 16:35:35 INFO  ApacheHttpClient.refreshUserInfo(291) - responseCode = 200
+2019-09-22 16:35:35 INFO  ApacheHttpClient.refreshUserInfo(297) - User information received.
+2019-09-22 16:35:35 INFO  ApacheHttpClient.startGA(35) - GAService started.
+2019-09-22 16:35:35 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2019-09-22 16:36:00 INFO  ApacheHttpClient.getWebResourceAsStream(483) - responseCode = 200
+2019-09-22 16:37:02 INFO  PluginTasksProjectComponent.projectClosing(188) - ---------- Project closed ----------
+
+2019-12-10 11:10:01 INFO  PluginTasksProjectComponent.projectOpened(77) - ---------- Project opened ----------
+2019-12-10 11:10:01 INFO  PluginTasksProjectComponent.projectOpened(78) - ---------- Version 3.35 ----------
+
+2019-12-10 11:10:02 INFO  PluginTasksProjectComponent.setAutoscrolls(366) - Autoscrolls successfully set
+2019-12-10 11:10:05 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(583) - Waiting for server response.
+2019-12-10 11:10:05 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(583) - Waiting for server response.
+2019-12-10 11:10:05 INFO  ApacheHttpClient.refreshUserInfo(291) - responseCode = 200
+2019-12-10 11:10:05 INFO  ApacheHttpClient.refreshUserInfo(297) - User information received.
+2019-12-10 11:10:05 INFO  ApacheHttpClient.startGA(35) - GAService started.
+2019-12-10 11:10:05 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2019-12-10 11:13:27 INFO  ApacheHttpClient.getWebResourceAsStream(483) - responseCode = 200
+2019-12-10 11:13:27 WARN  PluginUtil.getCurrentTask(70) - Error while retrieving the task key.
+2019-12-10 11:13:27 WARN  PluginUtil.getCurrentDirectory(101) - Error while getting the current directory.
+2019-12-10 11:13:27 ERROR ValidateButton.actionPerformed(90) - No task selected!
+2019-12-10 11:13:36 INFO  ApacheHttpClient.getWebResourceAsStream(483) - responseCode = 200
+2019-12-10 11:13:37 INFO  ApacheHttpClient.getFilteredTasks(322) - responseCode = 200
+2019-12-10 11:13:49 INFO  ApacheHttpClient.getTaskTemplateInfo(339) - responseCode = 200
+2019-12-10 11:13:52 INFO  ApacheHttpClient.getWebResourceAsStream(483) - responseCode = 200
+2019-12-10 11:14:05 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-12-10 11:15:05 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-12-10 11:16:11 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-12-10 11:17:06 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-12-10 11:18:05 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-12-10 11:19:05 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-12-10 11:20:05 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-12-10 11:21:06 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-12-10 11:22:05 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-12-10 11:23:05 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
