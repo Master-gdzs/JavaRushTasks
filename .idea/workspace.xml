@@ -2,33 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Master.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/User01.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/1.JavaSyntax.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/Quest.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task01/task0121/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task01/task0121/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/2.JavaCore.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/Quest.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/3.JavaMultithreading.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/Quest.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/4.JavaCollections.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/Quest.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.OnlineInternship/5.OnlineInternship.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.OnlineInternship/src/Internship.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Instruction.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaRushIdeaPlugin.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaRushTasks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task01/task0121/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task01/task0121/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task01/task0128/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task01/task0128/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +25,19 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="github/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="UPDATE_TYPE" value="MERGE" />
@@ -75,7 +66,7 @@
       <recent name="D:\intellijSandbox\JavaRushTasks" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Solution (2)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -250,6 +241,46 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task01.task0138.Solution" />
+      <module name="1.JavaSyntax" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task01.task0128.Solution" />
+      <module name="1.JavaSyntax" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task01.task0140.Solution" />
+      <module name="1.JavaSyntax" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task01.task0135.Solution" />
+      <module name="1.JavaSyntax" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task02.task0201.Solution" />
+      <module name="1.JavaSyntax" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -334,6 +365,15 @@
       <envs />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Solution (5)" />
+        <item itemvalue="Application.Solution (4)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -390,6 +430,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="497" y="237" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728/-1280.0.1280.984@0.0.1366.728" timestamp="1575969262860" />
+    <state x="281" y="0" key="CommitChangelistDialog2" timestamp="1575970148889">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="281" y="0" key="CommitChangelistDialog2/0.0.1366.728/-1280.0.1280.984@0.0.1366.728" timestamp="1575970148889" />
     <state x="413" y="35" key="FileChooserDialogImpl" timestamp="1575969634016">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -398,13 +442,37 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="467" y="250" width="462" height="227" key="Github.CreateGistDialog/0.0.1366.728/-1280.0.1280.984@0.0.1366.728" timestamp="1575969536682" />
-    <state x="60" y="0" key="SettingsEditor" timestamp="1575969462798">
+    <state x="508" y="223" key="Github.ShareDialog" timestamp="1575970072195">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="60" y="0" key="SettingsEditor/0.0.1366.728/-1280.0.1280.984@0.0.1366.728" timestamp="1575969462798" />
-    <state x="439" y="253" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575969949119">
+    <state x="508" y="223" key="Github.ShareDialog/0.0.1366.728/-1280.0.1280.984@0.0.1366.728" timestamp="1575970072195" />
+    <state x="339" y="0" key="Github.UntrackedFilesDialog" timestamp="1575970087518">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="439" y="253" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/-1280.0.1280.984@0.0.1366.728" timestamp="1575969949119" />
+    <state x="339" y="0" key="Github.UntrackedFilesDialog/0.0.1366.728/-1280.0.1280.984@0.0.1366.728" timestamp="1575970087518" />
+    <state width="1311" height="168" key="GridCell.Tab.0.bottom" timestamp="1575973663843">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="168" key="GridCell.Tab.0.bottom/0.0.1366.728/-1280.0.1280.984@0.0.1366.728" timestamp="1575973663843" />
+    <state width="1311" height="168" key="GridCell.Tab.0.center" timestamp="1575973663843">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="168" key="GridCell.Tab.0.center/0.0.1366.728/-1280.0.1280.984@0.0.1366.728" timestamp="1575973663843" />
+    <state width="1311" height="168" key="GridCell.Tab.0.left" timestamp="1575973663843">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="168" key="GridCell.Tab.0.left/0.0.1366.728/-1280.0.1280.984@0.0.1366.728" timestamp="1575973663843" />
+    <state width="1311" height="168" key="GridCell.Tab.0.right" timestamp="1575973663843">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="168" key="GridCell.Tab.0.right/0.0.1366.728/-1280.0.1280.984@0.0.1366.728" timestamp="1575973663843" />
+    <state x="60" y="0" key="SettingsEditor" timestamp="1575970042843">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="60" y="0" key="SettingsEditor/0.0.1366.728/-1280.0.1280.984@0.0.1366.728" timestamp="1575970042843" />
+    <state x="439" y="253" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575970217940">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="439" y="253" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/-1280.0.1280.984@0.0.1366.728" timestamp="1575970217940" />
   </component>
 </project>
